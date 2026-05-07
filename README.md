@@ -8,7 +8,7 @@ Clone this repository directly into the Codex skills folder:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/YOUR_USERNAME/motion-count-next.git ~/.codex/skills/motion-count-next
+git clone https://github.com/jongwoo01/motion-count-next.git ~/.codex/skills/motion-count-next
 ```
 
 Restart Codex or start a new session, then use:
