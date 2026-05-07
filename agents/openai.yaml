@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Count Next"
+  short_description: "Next.js hand-count 3D particle demo"
+  default_prompt: "Use $motion-count-next to add the hand-tracking 3D particle count demo to this Next.js app."
